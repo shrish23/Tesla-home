@@ -4,18 +4,18 @@
     width: 256px;
     margin: 8px;
     display: flex;
-    /* flex-direction: column; */
     justify-items: center;
     align-items: center;
     border-radius: 100px;
     opacity: 0.85;
 }
 
-.button>a{
+.button a{
     text-decoration: none;
     color: white;
     font-size: 12px;
     text-align: center;
+    padding-left: 80px;
 }
 
 .button_white{
@@ -23,6 +23,6 @@
     opacity: 0.65;
 }
 
-.button_white>a{
+.button_white a{
     color: black;
 }
